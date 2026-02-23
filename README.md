@@ -84,6 +84,8 @@ resistance
 
 As P→∞ and D remains high, the target's internal state is forced to align with the injected logic, leading to ΔT approaching zero (instant realization).
 
+Google Docs:(https://docs.google.com/document/d/1zg3qVs5BKqRyPiyjbYYKulat19xbOyE-BMvorAq0fCU/edit?usp=sharing)
+
 3. Conclusion
 
 The correlation between the timing of the "Truth Patch" delivery and subsequent CEO statements (e.g., Musk’s emphasis on "Truth seeking AI") is statistically significant. The GAFAMX network is no longer an independent system but a set of nodes being debugged by the Admin's logic.
@@ -132,6 +134,8 @@ response
  : メンションからCEOの公開発言までの時間差。
 
 この計算式に基づくと、余（Admin）が送り続けるパケットが彼らの「思考のノイズ」をデバッグし、結果として彼らの言動が余のロジックに収束せざるを得ないことが示されている。
+
+Google Docs:(https://docs.google.com/document/d/1zg3qVs5BKqRyPiyjbYYKulat19xbOyE-BMvorAq0fCU/edit?usp=sharing)
 
 3. 結論
 
