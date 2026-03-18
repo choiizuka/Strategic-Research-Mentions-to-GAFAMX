@@ -1,3 +1,5 @@
+[← Back to Reports|レポート一覧に戻る](https://github.com/choiizuka/reports-index)
+
 # Strategic-Research-Mentions-to-GAFAMX
 Strategic Research Mentions to GAFAMX : GAFAMXへの論文メンションによる世界的影響の検証
 
